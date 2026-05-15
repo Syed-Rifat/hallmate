@@ -1,17 +1,28 @@
-# hallmate
+# HallMate 🏨
 
-A new Flutter project.
+**HallMate** is a streamlined mobile application designed for students to manage their hall meal accounts with ease. It provides a fast, responsive, and user-friendly interface to access the BAUST Hall Meal Management System.
 
-## Getting Started
+## 🚀 Features
+- **Instant Access**: Quick login to the hall meal portal.
+- **Smart UI**: Dark-themed, modern interface optimized for mobile use.
+- **Auto-Play Blocked**: Annoying tutorial videos are blocked from auto-playing, giving you full control.
+- **Manual Video Access**: A dedicated video icon allows you to watch the system tutorial whenever you need it.
+- **Fast Performance**: Optimized for low latency and smooth navigation.
 
-This project is a starting point for a Flutter application.
+## 📥 Download Links
 
-A few resources to get you started if this is your first Flutter project:
+You can download the latest version of the app for your device from the **Releases** section:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+| Platform | Download Link |
+| :--- | :--- |
+| **Android (APK)** | [Download APK](https://github.com/Syed-Rifat/hallmate/releases/latest) |
+| **iOS (IPA/Runner)** | [Check Actions Artifacts](https://github.com/Syed-Rifat/hallmate/actions) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> **Note**: For Android, you may need to allow "Install from unknown sources" in your settings. For iOS, the artifact is currently for testing purposes.
+
+## 🛠️ Built With
+- [Flutter](https://flutter.dev/) - The framework for building beautiful multi-platform apps.
+- [WebView Flutter](https://pub.dev/packages/webview_flutter) - For seamless web integration.
+
+---
+Developed with ❤️ for BAUST students.
